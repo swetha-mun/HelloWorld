@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6690-B513
+
+ Directory of C:\Users\swetha\Desktop\Javaproject1
+
+07/24/2020  08:11 AM    <DIR>          .
+07/24/2020  08:11 AM    <DIR>          ..
+07/24/2020  08:11 AM               673 Hello.class
+07/24/2020  07:25 AM               138 Hello.java
+07/24/2020  08:11 AM                 0 index.txt
+07/24/2020  08:05 AM               461 readme.txt
+               4 File(s)          1,272 bytes
+               2 Dir(s)  56,025,325,568 bytes free
