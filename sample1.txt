@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6690-B513
+
+ Directory of C:\Tools\git_sample_project_cloning\HelloWorld
+
+07/28/2020  04:14 PM    <DIR>          .
+07/28/2020  04:14 PM    <DIR>          ..
+07/28/2020  04:03 PM               673 Hello.class
+07/28/2020  04:03 PM               143 Hello.java
+07/28/2020  04:03 PM               511 index.txt
+07/28/2020  04:03 PM               461 readme.txt
+07/28/2020  04:14 PM                 0 sample1.txt
+               5 File(s)          1,788 bytes
+               2 Dir(s)  53,645,897,728 bytes free
